@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.79.0">
-    <title>The Republic of Chat!</title> 
+    <title>Chamber of Secrets</title> 
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/product/">
 
@@ -49,7 +49,7 @@
   <body>
     
 <header class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
-   <p class="h5 my-0 me-md-auto fw-normal">MyChatroom</p>
+   <p class="h5 my-0 me-md-auto fw-normal">The Republic of Chat Welcome you!</p>
   <nav class="my-2 my-md-0 me-md-3">
   </nav>
 </header>
@@ -57,8 +57,8 @@
 <main>
   <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
     <div class="col-md-5 p-lg-5 mx-auto my-5">
-      <h1 class="display-3 fw-normal"> "Tick Talks"</h1>
-      <p class="lead fw-normal">Circle of Trust.</p>
+      <h1 class="display-3 fw-normal">Tick Talks</h1>
+      <p class="lead fw-normal">Chat with Each-other,Stay Together.</p>
       <form action="Create.php" method="post">
         MyChatroom<input type="text" name="room">
       <button class="btn btn-outline-dark" href="#">Create Room</button>
@@ -94,4 +94,6 @@
       
   </body>
 </html>
+
+
 
